@@ -1,5 +1,11 @@
 # svelte
 
+## 5.49.0
+
+### Minor Changes
+
+- feat: allow passing `ShadowRootInit` object to custom element `shadow` option ([#17088](https://github.com/sveltejs/svelte/pull/17088))
+
 ## 5.48.5
 
 ### Patch Changes
